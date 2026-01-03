@@ -2,6 +2,7 @@
 
 ## 📊 Data Analyst | Business Intelligence & Reporting
 🔗 **LinkedIn:** [View my profile](https://www.linkedin.com/in/anandakrishnan-k-696056296?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Be%2FXZv5wZR0SaNyKWbJ%2B8Mw%3D%3D)
+**Email:** anand.k100@gmail.com
 
 
 I’m a Data Analyst focused on turning raw, unstructured data into clean, insight-ready models and dashboards.  
