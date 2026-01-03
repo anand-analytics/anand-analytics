@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Anandakrishnan
 
 ## 📊 Data Analyst | Business Intelligence & Reporting
+Linkedin : [![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Ba7wcYb15T765qnWGaduzbQ%3D%3D))
 
 I’m a Data Analyst focused on turning raw, unstructured data into clean, insight-ready models and dashboards.  
 My work centers on data preparation, KPI definition, automated reporting, and visualization that supports business and operational decision-making.
@@ -38,8 +39,7 @@ I’m interested in **Data Analyst, BI Analyst, and Reporting Analyst roles**, w
 ---
 
 📫 Feel free to explore my repositories or connect for data-driven discussions.
-## Linkedin
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/anandakrishnan-k-696056296?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBfC%2F%2BHbNQD6ARhm7xu6eww%3D%3D))
+
 
 
 
