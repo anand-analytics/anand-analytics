@@ -38,3 +38,5 @@ I’m interested in **Data Analyst, BI Analyst, and Reporting Analyst roles**, w
 ---
 
 📫 Feel free to explore my repositories or connect for data-driven discussions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/anandakrishnan-k-696056296?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBfC%2F%2BHbNQD6ARhm7xu6eww%3D%3D))
+
